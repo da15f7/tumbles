@@ -2,3 +2,5 @@
 *.directory
 .hg
 .hgignore
+_site
+.sass-cache
