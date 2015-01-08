@@ -1,7 +1,7 @@
 # Site settings
-title:
+title: tumbles.
 email:
-description:
+description: > # tumblr-like blog, based on Jekyll
 baseurl:
 url:
 twitter_username:
