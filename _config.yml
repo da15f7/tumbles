@@ -9,3 +9,4 @@ github_username:
 
 # Build settings
 markdown: kramdown
+exclude: [mockup, repository, README.md, CHANGELOG.md, MILESTONES.md, STRUCTURE.md, TREE.md, LICENSE.md]
